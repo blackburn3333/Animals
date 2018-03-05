@@ -6,15 +6,15 @@
 
 ```
 can check which animal can fly.
-#can.
+# can.
 ```
 
 ```
 can check color of animal.
-#color.
+# color.
 ```
 
 ```
 can check who is dangerous.
-#animal_is.
+# animal_is.
 ```
